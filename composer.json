@@ -1,0 +1,19 @@
+{
+    "name": "kunoichi/term-meta",
+    "description": "A utility for handle term meta easily.",
+    "type": "wordpress-library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "fumikito",
+            "email": "guy@hametuha.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Kunoichi\\TermMeta": "src"
+        }
+    }
+}
